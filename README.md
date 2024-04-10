@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdarlancm&label=Profile%20views&color=0e75b6&style=flat" alt="jdarlancm" /> </p>
 
-- 🌱 I’m currently learning **javascript stack's**
+- 🌱 I’m currently learning **javascript stack's and python for Automation Software**
 
 - 📫 How to reach me **jdarlan@gmail.com**
 
