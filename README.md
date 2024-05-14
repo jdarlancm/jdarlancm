@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdarlancm&label=Profile%20views&color=0e75b6&style=flat" alt="jdarlancm" /> </p>
 
-<p>I’m System Analist with extensive experience working size 2011. Currently, I'm at the Universidade Federal Rural do Semi-Árido (UFERSA), where I work with the instituition's administrative and academic system (SIGs-UFRN).</p>
+<p>I’m System Analist with extensive experience working size 2001. Currently, I'm at the Universidade Federal Rural do Semi-Árido (UFERSA), where I work with the instituition's administrative and academic system (SIGs-UFRN).</p>
 
 <p>My specialties include Java, Python, and JavaScript (React, Next.js, Nest.js, Node.js), and I also have strong skills in databases, including Oracle Database and PostgreSQL, as well as PL/SQL.</p>
 
