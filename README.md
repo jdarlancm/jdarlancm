@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jonathan Darlan</h1>
-<h3 align="center">A passionate find solutions using dev technologies</h3>
+<h3 align="center">Keep it simple</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdarlancm&label=Profile%20views&color=0e75b6&style=flat" alt="jdarlancm" /> </p>
 
-- 🌱 I’m currently learning **javascript stack's and python for Automation Software**
+<p>I’m System Analist with extensive experience working size 2011. Currently, I'm at the Universidade Federal Rural do Semi-Árido (UFERSA), where I work with the instituition's administrative and academic system (SIGs-UFRN).</p>
+
+<p>My specialties include Java, Python, and JavaScript (React, Next.js, Nest.js, Node.js), and I also have strong skills in databases, including Oracle Database and PostgreSQL, as well as PL/SQL.</p>
+
+<p>With interest in process automation and web systems, I always strive for simplicity, aiming to find efficient and functional solutions to everyday challenges</p>
 
 - 📫 How to reach me **jdarlan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jdarlancm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jdarlancm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonathan-darlan-00687023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-darlan-00687023" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jdarlancm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-darlan-00687023" height="30" width="40" /></a>
 <a href="https://fb.com/jdarlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jdarlan" height="30" width="40" /></a>
 <a href="https://instagram.com/jdarlan.cm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jdarlan.cm" height="30" width="40" /></a>
 </p>
